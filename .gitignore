@@ -1,8 +1,11 @@
-*.dSYM*
+**
+!*/
+!*.*
 *bin/*
 *.DS_Store*
-*.*
 *.vscode*
 *.diff*
 *.myout*
+*main.dSYM*
+*.cx_metadata*
 
